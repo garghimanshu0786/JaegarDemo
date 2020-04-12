@@ -1,0 +1,16 @@
+services:
+  aggregatorservice:
+    build:
+      context: C:\Users\himanshugarg\source\repos\AggregatorService
+      dockerfile: Dockerfile
+    environment:
+      ASPNETCORE_ENVIRONMENT: Development
+      ASPNETCORE_URLS: https://+:443;http://+:80
+    image: aggregatorservice
+    ports:
+    - target: 80
+    - target: 443
+    volumes:
+    - C:\Users\himanshugarg\AppData\Roaming\ASP.NET\Https:/root/.aspnet/https:ro
+    - C:\Users\himanshugarg\AppData\Roaming\Microsoft\UserSecrets:/root/.microsoft/usersecrets:ro
+version: '3.4'

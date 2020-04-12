@@ -1,0 +1,64 @@
+C:\Users\himanshugarg\source\repos\AggregatorService\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\himanshugarg\source\repos\AggregatorService\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\himanshugarg\source\repos\AggregatorService\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+C:\Users\himanshugarg\source\repos\AggregatorService\bin\Debug\netcoreapp3.1\AggregatorService.exe
+C:\Users\himanshugarg\source\repos\AggregatorService\bin\Debug\netcoreapp3.1\AggregatorService.deps.json
+C:\Users\himanshugarg\source\repos\AggregatorService\bin\Debug\netcoreapp3.1\AggregatorService.runtimeconfig.json
+C:\Users\himanshugarg\source\repos\AggregatorService\bin\Debug\netcoreapp3.1\AggregatorService.runtimeconfig.dev.json
+C:\Users\himanshugarg\source\repos\AggregatorService\bin\Debug\netcoreapp3.1\AggregatorService.dll
+C:\Users\himanshugarg\source\repos\AggregatorService\bin\Debug\netcoreapp3.1\AggregatorService.pdb
+C:\Users\himanshugarg\source\repos\AggregatorService\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\himanshugarg\source\repos\AggregatorService\obj\Debug\netcoreapp3.1\staticwebassets\AggregatorService.StaticWebAssets.Manifest.cache
+C:\Users\himanshugarg\source\repos\AggregatorService\obj\Debug\netcoreapp3.1\staticwebassets\AggregatorService.StaticWebAssets.xml
+C:\Users\himanshugarg\source\repos\AggregatorService\obj\Debug\netcoreapp3.1\AggregatorService.AssemblyInfoInputs.cache
+C:\Users\himanshugarg\source\repos\AggregatorService\obj\Debug\netcoreapp3.1\AggregatorService.AssemblyInfo.cs
+C:\Users\himanshugarg\source\repos\AggregatorService\obj\Debug\netcoreapp3.1\AggregatorService.RazorTargetAssemblyInfo.cache
+C:\Users\himanshugarg\source\repos\AggregatorService\obj\Debug\netcoreapp3.1\AggregatorService.csproj.CopyComplete
+C:\Users\himanshugarg\source\repos\AggregatorService\obj\Debug\netcoreapp3.1\AggregatorService.dll
+C:\Users\himanshugarg\source\repos\AggregatorService\obj\Debug\netcoreapp3.1\AggregatorService.pdb
+C:\Users\himanshugarg\source\repos\AggregatorService\obj\Debug\netcoreapp3.1\AggregatorService.csprojAssemblyReference.cache
+C:\Users\himanshugarg\source\repos\AggregatorService\obj\Debug\netcoreapp3.1\AggregatorService.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\himanshugarg\source\repos\AggregatorService\bin\Debug\netcoreapp3.1\OpenTracing.dll
+C:\Users\himanshugarg\source\repos\AggregatorService\bin\Debug\netcoreapp3.1\Jaeger.dll
+C:\Users\himanshugarg\source\repos\AggregatorService\bin\Debug\netcoreapp3.1\Jaeger.Thrift.dll
+C:\Users\himanshugarg\source\repos\AggregatorService\bin\Debug\netcoreapp3.1\Jaeger.Thrift.VendoredThrift.dll
+C:\Users\himanshugarg\source\repos\AggregatorService\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\himanshugarg\source\repos\AggregatorService\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\himanshugarg\source\repos\AggregatorService\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyModel.dll
+C:\Users\himanshugarg\source\repos\AggregatorService\bin\Debug\netcoreapp3.1\System.Text.Json.dll
+C:\Users\himanshugarg\Desktop\Dot Net JaegerDemo\JaegerDemo\aggregatorservice\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\himanshugarg\Desktop\Dot Net JaegerDemo\JaegerDemo\aggregatorservice\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\himanshugarg\Desktop\Dot Net JaegerDemo\JaegerDemo\aggregatorservice\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+C:\Users\himanshugarg\Desktop\Dot Net JaegerDemo\JaegerDemo\aggregatorservice\bin\Debug\netcoreapp3.1\AggregatorService.exe
+C:\Users\himanshugarg\Desktop\Dot Net JaegerDemo\JaegerDemo\aggregatorservice\bin\Debug\netcoreapp3.1\AggregatorService.deps.json
+C:\Users\himanshugarg\Desktop\Dot Net JaegerDemo\JaegerDemo\aggregatorservice\bin\Debug\netcoreapp3.1\AggregatorService.runtimeconfig.json
+C:\Users\himanshugarg\Desktop\Dot Net JaegerDemo\JaegerDemo\aggregatorservice\bin\Debug\netcoreapp3.1\AggregatorService.runtimeconfig.dev.json
+C:\Users\himanshugarg\Desktop\Dot Net JaegerDemo\JaegerDemo\aggregatorservice\bin\Debug\netcoreapp3.1\AggregatorService.dll
+C:\Users\himanshugarg\Desktop\Dot Net JaegerDemo\JaegerDemo\aggregatorservice\bin\Debug\netcoreapp3.1\AggregatorService.pdb
+C:\Users\himanshugarg\Desktop\Dot Net JaegerDemo\JaegerDemo\aggregatorservice\bin\Debug\netcoreapp3.1\Jaeger.dll
+C:\Users\himanshugarg\Desktop\Dot Net JaegerDemo\JaegerDemo\aggregatorservice\bin\Debug\netcoreapp3.1\Jaeger.Thrift.dll
+C:\Users\himanshugarg\Desktop\Dot Net JaegerDemo\JaegerDemo\aggregatorservice\bin\Debug\netcoreapp3.1\Jaeger.Thrift.VendoredThrift.dll
+C:\Users\himanshugarg\Desktop\Dot Net JaegerDemo\JaegerDemo\aggregatorservice\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\himanshugarg\Desktop\Dot Net JaegerDemo\JaegerDemo\aggregatorservice\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\himanshugarg\Desktop\Dot Net JaegerDemo\JaegerDemo\aggregatorservice\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyModel.dll
+C:\Users\himanshugarg\Desktop\Dot Net JaegerDemo\JaegerDemo\aggregatorservice\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\himanshugarg\Desktop\Dot Net JaegerDemo\JaegerDemo\aggregatorservice\bin\Debug\netcoreapp3.1\OpenTracing.dll
+C:\Users\himanshugarg\Desktop\Dot Net JaegerDemo\JaegerDemo\aggregatorservice\bin\Debug\netcoreapp3.1\OpenTracing.Contrib.NetCore.dll
+C:\Users\himanshugarg\Desktop\Dot Net JaegerDemo\JaegerDemo\aggregatorservice\bin\Debug\netcoreapp3.1\System.Data.SqlClient.dll
+C:\Users\himanshugarg\Desktop\Dot Net JaegerDemo\JaegerDemo\aggregatorservice\bin\Debug\netcoreapp3.1\System.Text.Json.dll
+C:\Users\himanshugarg\Desktop\Dot Net JaegerDemo\JaegerDemo\aggregatorservice\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\Users\himanshugarg\Desktop\Dot Net JaegerDemo\JaegerDemo\aggregatorservice\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\Users\himanshugarg\Desktop\Dot Net JaegerDemo\JaegerDemo\aggregatorservice\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\Users\himanshugarg\Desktop\Dot Net JaegerDemo\JaegerDemo\aggregatorservice\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\himanshugarg\Desktop\Dot Net JaegerDemo\JaegerDemo\aggregatorservice\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\himanshugarg\Desktop\Dot Net JaegerDemo\JaegerDemo\aggregatorservice\obj\Debug\netcoreapp3.1\AggregatorService.csprojAssemblyReference.cache
+C:\Users\himanshugarg\Desktop\Dot Net JaegerDemo\JaegerDemo\aggregatorservice\obj\Debug\netcoreapp3.1\staticwebassets\AggregatorService.StaticWebAssets.Manifest.cache
+C:\Users\himanshugarg\Desktop\Dot Net JaegerDemo\JaegerDemo\aggregatorservice\obj\Debug\netcoreapp3.1\staticwebassets\AggregatorService.StaticWebAssets.xml
+C:\Users\himanshugarg\Desktop\Dot Net JaegerDemo\JaegerDemo\aggregatorservice\obj\Debug\netcoreapp3.1\AggregatorService.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\himanshugarg\Desktop\Dot Net JaegerDemo\JaegerDemo\aggregatorservice\obj\Debug\netcoreapp3.1\AggregatorService.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\himanshugarg\Desktop\Dot Net JaegerDemo\JaegerDemo\aggregatorservice\obj\Debug\netcoreapp3.1\AggregatorService.AssemblyInfoInputs.cache
+C:\Users\himanshugarg\Desktop\Dot Net JaegerDemo\JaegerDemo\aggregatorservice\obj\Debug\netcoreapp3.1\AggregatorService.AssemblyInfo.cs
+C:\Users\himanshugarg\Desktop\Dot Net JaegerDemo\JaegerDemo\aggregatorservice\obj\Debug\netcoreapp3.1\AggregatorService.RazorTargetAssemblyInfo.cache
+C:\Users\himanshugarg\Desktop\Dot Net JaegerDemo\JaegerDemo\aggregatorservice\obj\Debug\netcoreapp3.1\AggregatorService.csproj.CopyComplete
+C:\Users\himanshugarg\Desktop\Dot Net JaegerDemo\JaegerDemo\aggregatorservice\obj\Debug\netcoreapp3.1\AggregatorService.dll
+C:\Users\himanshugarg\Desktop\Dot Net JaegerDemo\JaegerDemo\aggregatorservice\obj\Debug\netcoreapp3.1\AggregatorService.pdb

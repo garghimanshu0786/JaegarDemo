@@ -1,0 +1,9 @@
+C:\Users\himanshugarg\source\repos\AggregatorService\bin\Debug\appsettings.Development.json
+C:\Users\himanshugarg\source\repos\AggregatorService\bin\Debug\appsettings.json
+C:\Users\himanshugarg\source\repos\AggregatorService\bin\Debug\Properties\launchSettings.json
+C:\Users\himanshugarg\source\repos\AggregatorService\bin\Debug\AggregatorService.exe
+C:\Users\himanshugarg\source\repos\AggregatorService\bin\Debug\AggregatorService.dll
+C:\Users\himanshugarg\source\repos\AggregatorService\bin\Debug\Newtonsoft.Json.dll
+C:\Users\himanshugarg\source\repos\AggregatorService\bin\Debug\AggregatorService.pdb
+C:\Users\himanshugarg\source\repos\AggregatorService\obj\Debug\docker-compose.dcprojAssemblyReference.cache
+C:\Users\himanshugarg\source\repos\AggregatorService\obj\Debug\docker-compose.dcproj.CopyComplete

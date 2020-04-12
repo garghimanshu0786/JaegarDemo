@@ -1,0 +1,73 @@
+networks:
+  backend:
+    driver: bridge
+services:
+  aggregatorservice:
+    build:
+      context: C:\Users\himanshugarg\Desktop\Dot Net JaegerDemo\JaegerDemo
+      dockerfile: aggregatorservice/Dockerfile
+    depends_on:
+    - customerapi
+    - jagerservice
+    - orderapi
+    image: aggregatorservice
+    networks:
+      backend: {}
+    ports:
+    - published: 9897
+      target: 80
+  customerapi:
+    build:
+      context: C:\Users\himanshugarg\Desktop\Dot Net JaegerDemo\JaegerDemo
+      dockerfile: CustomerApi/Dockerfile
+    depends_on:
+    - jagerservice
+    environment:
+      ASPNETCORE_ENVIRONMENT: Development
+    image: customerapi
+    networks:
+      backend: {}
+    ports:
+    - published: 9898
+      target: 80
+    - target: 80
+  jagerservice:
+    environment:
+      COLLECTOR_ZIPKIN_HTTP_PORT: '9411'
+    image: jaegertracing/all-in-one:latest
+    networks:
+      backend: {}
+    ports:
+    - protocol: udp
+      published: 5775
+      target: 5775
+    - published: 5778
+      target: 5778
+    - protocol: udp
+      published: 6831
+      target: 6831
+    - protocol: udp
+      published: 6832
+      target: 6832
+    - published: 9411
+      target: 9411
+    - published: 14268
+      target: 14268
+    - published: 16686
+      target: 16686
+  orderapi:
+    build:
+      context: C:\Users\himanshugarg\Desktop\Dot Net JaegerDemo\JaegerDemo
+      dockerfile: OrderApi/Dockerfile
+    depends_on:
+    - jagerservice
+    environment:
+      ASPNETCORE_ENVIRONMENT: Development
+    image: orderapi
+    networks:
+      backend: {}
+    ports:
+    - published: 9899
+      target: 80
+    - target: 80
+version: '3.4'

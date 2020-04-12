@@ -1,0 +1,67 @@
+D:\Jaeger\JaegerDemo\OrderApi\bin\Debug\netcoreapp3.1\appsettings.Development.json
+D:\Jaeger\JaegerDemo\OrderApi\bin\Debug\netcoreapp3.1\appsettings.json
+D:\Jaeger\JaegerDemo\OrderApi\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+D:\Jaeger\JaegerDemo\OrderApi\bin\Debug\netcoreapp3.1\OrderApi.exe
+D:\Jaeger\JaegerDemo\OrderApi\bin\Debug\netcoreapp3.1\OrderApi.deps.json
+D:\Jaeger\JaegerDemo\OrderApi\bin\Debug\netcoreapp3.1\OrderApi.runtimeconfig.json
+D:\Jaeger\JaegerDemo\OrderApi\bin\Debug\netcoreapp3.1\OrderApi.runtimeconfig.dev.json
+D:\Jaeger\JaegerDemo\OrderApi\bin\Debug\netcoreapp3.1\OrderApi.dll
+D:\Jaeger\JaegerDemo\OrderApi\bin\Debug\netcoreapp3.1\OrderApi.pdb
+D:\Jaeger\JaegerDemo\OrderApi\obj\Debug\netcoreapp3.1\OrderApi.AssemblyInfoInputs.cache
+D:\Jaeger\JaegerDemo\OrderApi\obj\Debug\netcoreapp3.1\OrderApi.AssemblyInfo.cs
+D:\Jaeger\JaegerDemo\OrderApi\obj\Debug\netcoreapp3.1\OrderApi.RazorTargetAssemblyInfo.cache
+D:\Jaeger\JaegerDemo\OrderApi\obj\Debug\netcoreapp3.1\staticwebassets\OrderApi.StaticWebAssets.Manifest.cache
+D:\Jaeger\JaegerDemo\OrderApi\obj\Debug\netcoreapp3.1\staticwebassets\OrderApi.StaticWebAssets.xml
+D:\Jaeger\JaegerDemo\OrderApi\obj\Debug\netcoreapp3.1\OrderApi.dll
+D:\Jaeger\JaegerDemo\OrderApi\obj\Debug\netcoreapp3.1\OrderApi.pdb
+D:\Jaeger\JaegerDemo\OrderApi\obj\Debug\netcoreapp3.1\OrderApi.genruntimeconfig.cache
+D:\Jaeger\JaegerDemo\OrderApi\bin\Debug\netcoreapp3.1\Jaeger.dll
+D:\Jaeger\JaegerDemo\OrderApi\bin\Debug\netcoreapp3.1\Jaeger.Thrift.dll
+D:\Jaeger\JaegerDemo\OrderApi\bin\Debug\netcoreapp3.1\Jaeger.Thrift.VendoredThrift.dll
+D:\Jaeger\JaegerDemo\OrderApi\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+D:\Jaeger\JaegerDemo\OrderApi\bin\Debug\netcoreapp3.1\OpenTracing.dll
+D:\Jaeger\JaegerDemo\OrderApi\obj\Debug\netcoreapp3.1\OrderApi.csprojAssemblyReference.cache
+D:\Jaeger\JaegerDemo\OrderApi\obj\Debug\netcoreapp3.1\OrderApi.csproj.CopyComplete
+D:\Jaeger\JaegerDemo\OrderApi\bin\Debug\netcoreapp3.1\OpenTracing.Contrib.NetCore.dll
+D:\Jaeger\JaegerDemo\OrderApi\bin\Debug\netcoreapp3.1\System.Data.SqlClient.dll
+D:\Jaeger\JaegerDemo\OrderApi\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+D:\Jaeger\JaegerDemo\OrderApi\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+D:\Jaeger\JaegerDemo\OrderApi\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+D:\Jaeger\JaegerDemo\OrderApi\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\Jaeger\JaegerDemo\OrderApi\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\himanshugarg\Desktop\Dot Net JaegerDemo\JaegerDemo\OrderApi\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\himanshugarg\Desktop\Dot Net JaegerDemo\JaegerDemo\OrderApi\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\himanshugarg\Desktop\Dot Net JaegerDemo\JaegerDemo\OrderApi\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+C:\Users\himanshugarg\Desktop\Dot Net JaegerDemo\JaegerDemo\OrderApi\bin\Debug\netcoreapp3.1\OrderApi.exe
+C:\Users\himanshugarg\Desktop\Dot Net JaegerDemo\JaegerDemo\OrderApi\bin\Debug\netcoreapp3.1\OrderApi.deps.json
+C:\Users\himanshugarg\Desktop\Dot Net JaegerDemo\JaegerDemo\OrderApi\bin\Debug\netcoreapp3.1\OrderApi.runtimeconfig.json
+C:\Users\himanshugarg\Desktop\Dot Net JaegerDemo\JaegerDemo\OrderApi\bin\Debug\netcoreapp3.1\OrderApi.runtimeconfig.dev.json
+C:\Users\himanshugarg\Desktop\Dot Net JaegerDemo\JaegerDemo\OrderApi\bin\Debug\netcoreapp3.1\OrderApi.dll
+C:\Users\himanshugarg\Desktop\Dot Net JaegerDemo\JaegerDemo\OrderApi\bin\Debug\netcoreapp3.1\OrderApi.pdb
+C:\Users\himanshugarg\Desktop\Dot Net JaegerDemo\JaegerDemo\OrderApi\bin\Debug\netcoreapp3.1\Jaeger.dll
+C:\Users\himanshugarg\Desktop\Dot Net JaegerDemo\JaegerDemo\OrderApi\bin\Debug\netcoreapp3.1\Jaeger.Thrift.dll
+C:\Users\himanshugarg\Desktop\Dot Net JaegerDemo\JaegerDemo\OrderApi\bin\Debug\netcoreapp3.1\Jaeger.Thrift.VendoredThrift.dll
+C:\Users\himanshugarg\Desktop\Dot Net JaegerDemo\JaegerDemo\OrderApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\himanshugarg\Desktop\Dot Net JaegerDemo\JaegerDemo\OrderApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\himanshugarg\Desktop\Dot Net JaegerDemo\JaegerDemo\OrderApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyModel.dll
+C:\Users\himanshugarg\Desktop\Dot Net JaegerDemo\JaegerDemo\OrderApi\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\himanshugarg\Desktop\Dot Net JaegerDemo\JaegerDemo\OrderApi\bin\Debug\netcoreapp3.1\OpenTracing.dll
+C:\Users\himanshugarg\Desktop\Dot Net JaegerDemo\JaegerDemo\OrderApi\bin\Debug\netcoreapp3.1\OpenTracing.Contrib.NetCore.dll
+C:\Users\himanshugarg\Desktop\Dot Net JaegerDemo\JaegerDemo\OrderApi\bin\Debug\netcoreapp3.1\System.Data.SqlClient.dll
+C:\Users\himanshugarg\Desktop\Dot Net JaegerDemo\JaegerDemo\OrderApi\bin\Debug\netcoreapp3.1\System.Text.Json.dll
+C:\Users\himanshugarg\Desktop\Dot Net JaegerDemo\JaegerDemo\OrderApi\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\Users\himanshugarg\Desktop\Dot Net JaegerDemo\JaegerDemo\OrderApi\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\Users\himanshugarg\Desktop\Dot Net JaegerDemo\JaegerDemo\OrderApi\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\Users\himanshugarg\Desktop\Dot Net JaegerDemo\JaegerDemo\OrderApi\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\himanshugarg\Desktop\Dot Net JaegerDemo\JaegerDemo\OrderApi\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\himanshugarg\Desktop\Dot Net JaegerDemo\JaegerDemo\OrderApi\obj\Debug\netcoreapp3.1\OrderApi.csprojAssemblyReference.cache
+C:\Users\himanshugarg\Desktop\Dot Net JaegerDemo\JaegerDemo\OrderApi\obj\Debug\netcoreapp3.1\staticwebassets\OrderApi.StaticWebAssets.Manifest.cache
+C:\Users\himanshugarg\Desktop\Dot Net JaegerDemo\JaegerDemo\OrderApi\obj\Debug\netcoreapp3.1\staticwebassets\OrderApi.StaticWebAssets.xml
+C:\Users\himanshugarg\Desktop\Dot Net JaegerDemo\JaegerDemo\OrderApi\obj\Debug\netcoreapp3.1\OrderApi.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\himanshugarg\Desktop\Dot Net JaegerDemo\JaegerDemo\OrderApi\obj\Debug\netcoreapp3.1\OrderApi.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\himanshugarg\Desktop\Dot Net JaegerDemo\JaegerDemo\OrderApi\obj\Debug\netcoreapp3.1\OrderApi.AssemblyInfoInputs.cache
+C:\Users\himanshugarg\Desktop\Dot Net JaegerDemo\JaegerDemo\OrderApi\obj\Debug\netcoreapp3.1\OrderApi.AssemblyInfo.cs
+C:\Users\himanshugarg\Desktop\Dot Net JaegerDemo\JaegerDemo\OrderApi\obj\Debug\netcoreapp3.1\OrderApi.RazorTargetAssemblyInfo.cache
+C:\Users\himanshugarg\Desktop\Dot Net JaegerDemo\JaegerDemo\OrderApi\obj\Debug\netcoreapp3.1\OrderApi.csproj.CopyComplete
+C:\Users\himanshugarg\Desktop\Dot Net JaegerDemo\JaegerDemo\OrderApi\obj\Debug\netcoreapp3.1\OrderApi.dll
+C:\Users\himanshugarg\Desktop\Dot Net JaegerDemo\JaegerDemo\OrderApi\obj\Debug\netcoreapp3.1\OrderApi.pdb
